@@ -9,5 +9,6 @@
     <file url="file://$PROJECT_DIR$/실습과제/05_테이블/기본/05_테이블기본.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/실습과제/05_테이블/심화/05_테이블심화.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/실습과제/06_인덱스/기본/06_인덱스기본.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/실습과제/06_인덱스/심화/06_인덱스심화.sql" dialect="MySQL" />
   </component>
 </project>
